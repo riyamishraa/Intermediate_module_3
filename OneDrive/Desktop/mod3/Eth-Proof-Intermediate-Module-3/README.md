@@ -48,7 +48,7 @@ If you encounter any issues or have any questions, you can refer to the project'
 
 ## Authors
 
-* -[Umar Khan](github.com/UmarKhan19)
+* -[Riya Mishra ](https://www.linkedin.com/in/riya-mishra-a2b6ab213/)
 
 
 ## License
